@@ -11,9 +11,6 @@
 1. Clone the repository.
 2. Install dependencies.
 
-## Usage
-- Run the app and explore movies by popularity, genre, and release year.
-
 ## Custom UI Components
 - Developed custom UI components for reusability.
 
@@ -33,3 +30,7 @@
 - (Optional) React Native implementation.
 - (Optional) Smooth scrolling with infinite loading.
 - (Optional) Movie search functionality.
+
+## THINGS NOT COVERED
+ - Loading movies when scrolling up
+ - Typescript
