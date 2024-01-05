@@ -17,6 +17,9 @@
 3. Run the app
    ```bash
    npm start
+4. For running
+   Scan the QR code above with Expo Go (Android) or the Camera app (iOS).
+   Or also can be run in simulators.
    
 ## Custom UI Components
 - Developed custom UI components for reusability.
