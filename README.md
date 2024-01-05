@@ -1,4 +1,4 @@
-# Movie Explorer App
+# MovieFix
 
 ## Features
 - **Custom UI Components**: Reusable components for better maintainability.
@@ -33,10 +33,3 @@
 - (Optional) React Native implementation.
 - (Optional) Smooth scrolling with infinite loading.
 - (Optional) Movie search functionality.
-- (Optional) TypeScript integration for enhanced type safety.
-
-## Contributing
-Feel free to contribute by opening issues or pull requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
