@@ -8,9 +8,16 @@
 - **Code Quality**: Well-structured and maintainable code.
 
 ## Setup
-1. Clone the repository.
-2. Install dependencies.
-
+1. Clone the repository
+   ```bash
+    https://github.com/asif-sidd9768/moviefix.git
+2. Install dependencies
+   ```bash
+   npm install
+3. Run the app
+   ```bash
+   npm start
+   
 ## Custom UI Components
 - Developed custom UI components for reusability.
 
