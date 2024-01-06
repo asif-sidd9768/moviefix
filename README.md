@@ -27,31 +27,32 @@
 ## Images
 <figure>
   <img
-  src="https://i.ibb.co/8rFXWrW/IMG-4855.png"
-  alt="USER REGISTER FORM" width="400" >
-  <figcaption>USER REGISTER FORM</figcaption>
-</figure>
-
-<figure>
-  <img
-  src="https://i.ibb.co/fq6z0py/IMG-4854.png"
+  src="https://i.ibb.co/fMdy35w/IMG-4852.png"
   alt="USER REGISTER FORM" width="400">
-  <figcaption>USER REGISTER FORM</figcaption>
+  <figcaption>All Movies</figcaption>
 </figure>
 
 <figure>
   <img
   src="https://i.ibb.co/DWP7NPg/IMG-4853.png"
   alt="USER REGISTER FORM" width="400">
-  <figcaption>USER REGISTER FORM</figcaption>
+  <figcaption>Genre Filter</figcaption>
 </figure>
 
 <figure>
   <img
-  src="https://i.ibb.co/fMdy35w/IMG-4852.png"
+  src="https://i.ibb.co/fq6z0py/IMG-4854.png"
   alt="USER REGISTER FORM" width="400">
-  <figcaption>USER REGISTER FORM</figcaption>
+  <figcaption>Search Empty</figcaption>
 </figure>
+
+<figure>
+  <img
+  src="https://i.ibb.co/8rFXWrW/IMG-4855.png"
+  alt="USER REGISTER FORM" width="400" >
+  <figcaption>Search Result</figcaption>
+</figure>
+
 
 ## Default Page Load State
 - Displays 20 movies for the year 2012, with smooth scrolling for additional content.
