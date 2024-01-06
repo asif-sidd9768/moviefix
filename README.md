@@ -24,6 +24,9 @@
 ## Custom UI Components
 - Developed custom UI components for reusability.
 
+## Images
+![alt text](https://i.ibb.co/8rFXWrW/IMG-4855.png)
+
 ## Default Page Load State
 - Displays 20 movies for the year 2012, with smooth scrolling for additional content.
 
