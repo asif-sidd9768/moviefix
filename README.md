@@ -25,7 +25,33 @@
 - Developed custom UI components for reusability.
 
 ## Images
-![alt text](https://i.ibb.co/8rFXWrW/IMG-4855.png)
+<figure>
+  <img
+  src="https://i.ibb.co/8rFXWrW/IMG-4855.png"
+  alt="USER REGISTER FORM">
+  <figcaption>USER REGISTER FORM</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://i.ibb.co/fq6z0py/IMG-4854.png"
+  alt="USER REGISTER FORM">
+  <figcaption>USER REGISTER FORM</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://i.ibb.co/DWP7NPg/IMG-4853.png"
+  alt="USER REGISTER FORM">
+  <figcaption>USER REGISTER FORM</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://i.ibb.co/fMdy35w/IMG-4852.png"
+  alt="USER REGISTER FORM">
+  <figcaption>USER REGISTER FORM</figcaption>
+</figure>
 
 ## Default Page Load State
 - Displays 20 movies for the year 2012, with smooth scrolling for additional content.
