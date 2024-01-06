@@ -28,7 +28,7 @@
 <figure>
   <img
   src="https://i.ibb.co/8rFXWrW/IMG-4855.png"
-  alt="USER REGISTER FORM">
+  alt="USER REGISTER FORM" width="48" >
   <figcaption>USER REGISTER FORM</figcaption>
 </figure>
 
