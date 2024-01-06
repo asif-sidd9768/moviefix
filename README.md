@@ -28,28 +28,28 @@
 <figure>
   <img
   src="https://i.ibb.co/8rFXWrW/IMG-4855.png"
-  alt="USER REGISTER FORM" width="500" >
+  alt="USER REGISTER FORM" width="400" >
   <figcaption>USER REGISTER FORM</figcaption>
 </figure>
 
 <figure>
   <img
   src="https://i.ibb.co/fq6z0py/IMG-4854.png"
-  alt="USER REGISTER FORM">
+  alt="USER REGISTER FORM" width="400">
   <figcaption>USER REGISTER FORM</figcaption>
 </figure>
 
 <figure>
   <img
   src="https://i.ibb.co/DWP7NPg/IMG-4853.png"
-  alt="USER REGISTER FORM">
+  alt="USER REGISTER FORM" width="400">
   <figcaption>USER REGISTER FORM</figcaption>
 </figure>
 
 <figure>
   <img
   src="https://i.ibb.co/fMdy35w/IMG-4852.png"
-  alt="USER REGISTER FORM">
+  alt="USER REGISTER FORM" width="400">
   <figcaption>USER REGISTER FORM</figcaption>
 </figure>
 
